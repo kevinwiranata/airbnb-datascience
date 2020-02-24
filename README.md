@@ -20,5 +20,5 @@ conda install -c conda-forge notebook
 ``` 
 git clone https://github.com/kevinwiranata/airbnb-datascience.git
 cd airbnb-datascience
-jupyter airbnb
+jupyter Airbnb-housing
 ```
