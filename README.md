@@ -17,9 +17,6 @@ I recommend you to install anaconda (https://www.anaconda.com/distribution/)
 Simply clone this repo and open jupyter notebook 
 ``` 
 conda install -c conda-forge notebook
-``` 
-
-``` 
 git clone https://github.com/kevinwiranata/airbnb-datascience.git
 cd airbnb-datascience
 jupyter Airbnb-housing
